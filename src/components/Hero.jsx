@@ -6,7 +6,7 @@ export default function Hero({ stars, setStars, downloads, setDownloads, issues,
     setStars(0);
     setDownloads(0);
     setIssues(0);
-  };
+  }
     
   return (
 <div className="flex justify-center gap-4 py-6">

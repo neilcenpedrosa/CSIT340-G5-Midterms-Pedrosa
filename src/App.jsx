@@ -3,8 +3,8 @@ import { useState } from "react";
 import Hero from "./components/Hero";
 import Features from "./components/Features";
 import Footer from "./components/Footer";
-*/ 
 
+*/
 function App() {
   const [stars, setStars] = useState(0);
   const [downloads, setDownloads] = useState(0);
